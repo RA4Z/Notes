@@ -1,1 +1,1 @@
-Power Platform is a platform from [[Microsoft]] that contains some tools like [[Power BI]], [[Power Apps]], [[Power Automate]]
+Microsoft Power Platform is a suite of low-code tools designed to help users build custom applications, automate workflows and analyze data, enabling organizations to streamline processes and enhance productivity quickly.

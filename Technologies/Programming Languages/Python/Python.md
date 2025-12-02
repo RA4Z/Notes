@@ -1,4 +1,4 @@
-Python is a powerful programming language that can be used in web development, automation, data analysis, machine learning and other things.
+Python is a powerful programming language that can be used in [[Web Development]], [[Automation]], [[Data Analysis]], [[Machine Learning]] and other things.
 
 It's possible to download Python in [Python.org](https://www.python.org/)
 
@@ -17,4 +17,4 @@ Python have lots of packages, where can be seen in [[PyPi]] they can be installe
 {python-path} -m pip install {package-name}
 ```
 
-There are some Python [[Modules]] listed in this documentation. 
+There are some Python [[Packages]] listed in this documentation. 

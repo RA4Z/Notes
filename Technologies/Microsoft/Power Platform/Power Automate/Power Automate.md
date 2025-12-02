@@ -1,0 +1,1 @@
+Power Automate is one of the [[Power Platform]] apps, this tool automates workflows between applications and services. It helps users streamline repetitive tasks such as sending notifications, collecting data, and managing approvals, increasing efficiency and productivity.

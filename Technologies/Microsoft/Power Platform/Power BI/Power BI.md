@@ -1,0 +1,1 @@
+Is a Powerful business intelligence tool developed by Microsoft that is in the [[Power Platform]], it transforms raw data into interactive visual insights, enabling users to make informed decisions.

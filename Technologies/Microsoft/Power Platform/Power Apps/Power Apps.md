@@ -1,0 +1,1 @@
+Power Apps is one of the [[Power Platform]] apps, it is an low-code application development platform that allows users to create custom business applications without extensive programming knowledge. Users can build apps for web and mobile devices, enabling them do address specific business requirements quickly.
