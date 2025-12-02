@@ -1,0 +1,1 @@
+Structured Query Language, is a standardized programming language designed for managing and manipulating relational databases. It serves as the primary language for interacting with Relational Database Management Systems, like [[MySQL]], [[PostgreSQL]], [[Oracle]] and [[Microsoft SQL Server]]

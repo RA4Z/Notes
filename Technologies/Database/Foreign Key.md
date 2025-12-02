@@ -1,0 +1,1 @@
+Is a column or a set of columns in one table that refers to the primary key of another table. Establishing a link between the data in two tables.
