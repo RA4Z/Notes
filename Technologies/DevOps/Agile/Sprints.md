@@ -1,0 +1,1 @@
+A sprint is a short, time-boxed period, typically one to four weeks, during which a team works to complete a specific set of tasks and achieve a defined goal.

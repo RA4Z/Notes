@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "2111d03db972dc2a",
+        "id": "8f75eef7bab8128c",
         "type": "tabs",
         "children": [
           {
-            "id": "ba7e235f985225d9",
+            "id": "ee7b20b73816151a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Technologies/Database/Commands/UNION.md",
+                "file": "Technologies/DevOps/Testing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "UNION"
+              "title": "Testing"
             }
           }
         ]
@@ -183,8 +183,17 @@
       "bases:Create new base": false
     }
   },
-  "active": "ba7e235f985225d9",
+  "active": "ee7b20b73816151a",
   "lastOpenFiles": [
+    "Technologies/DevOps/Testing.md",
+    "Technologies/DevOps/Agile/Scrum.md",
+    "Technologies/DevOps/Agile/Kanban.md",
+    "Technologies/DevOps/Agile Methodology.md",
+    "Technologies/DevOps/CI & CD.md",
+    "Technologies/DevOps/Agile",
+    "Untitled",
+    "Technologies/DevOps/Agile/Sprints.md",
+    "Technologies/Database/Commands/UNION.md",
     "Technologies/Database/Commands/SELECT.md",
     "Technologies/Database/Commands/JOIN.md",
     "Technologies/Database/Commands/GROUP BY.md",
@@ -194,7 +203,6 @@
     "Technologies/Database/MySQL.md",
     "Technologies/Database/Microsoft SQL Server.md",
     "Technologies/Database/Foreign Key.md",
-    "Technologies/Database/Commands/UNION.md",
     "Technologies/Database/SQL.md",
     "Technologies/Database/Oracle.md",
     "Technologies/Microsoft/Office365/Word.md",
@@ -204,23 +212,15 @@
     "Untitled.canvas",
     "Technologies/Microsoft/Office365.md",
     "Technologies/Programming Paradigms/Class.md",
-    "Technologies/DevOps/CI & CD.md",
     "Technologies/Programming Languages/Python/Python.md",
     "Technologies/Programming Languages/Python/Packages.md",
     "Technologies/Programming Languages/Python/Paradigms/Dunder/Methods/__new__.md",
     "Technologies/Programming Languages/Python/Paradigms/Dunder/Methods/__init__.md",
-    "Technologies/Programming Languages/Python/Paradigms/Dunder/Methods/__del__.md",
-    "Technologies/Programming Languages/Python/Paradigms/Dunder/Methods/__call__.md",
-    "Technologies/Microsoft/Power Platform/Power BI/External Tools/Tabular Editor.md",
-    "Technologies/Microsoft/Office365/Excel.md",
-    "Technologies/Programming Languages/Python/Automation.md",
     "Technologies/DevOps",
     "Technologies/Programming Languages/Python/Paradigms/Dunder/Methods",
     "Technologies/Programming Languages/Python/Paradigms/Dunder",
     "Technologies/Programming Languages/Python/Paradigms",
     "Technologies/Programming Paradigms",
-    "Technologies/Programming Languages/VBA",
-    "Untitled.base",
-    "Untitled 1.base"
+    "Technologies/Programming Languages/VBA"
   ]
 }
