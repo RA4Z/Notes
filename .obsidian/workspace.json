@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Technologies/Database/PostgreSQL.md",
+                "file": "Technologies/Database/Commands/UNION.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PostgreSQL"
+              "title": "UNION"
             }
           }
         ]
@@ -185,19 +185,19 @@
   },
   "active": "ba7e235f985225d9",
   "lastOpenFiles": [
+    "Technologies/Database/Commands/SELECT.md",
+    "Technologies/Database/Commands/JOIN.md",
+    "Technologies/Database/Commands/GROUP BY.md",
+    "Technologies/Database/Commands/HAVING.md",
+    "Technologies/Database/Commands/WHERE.md",
+    "Technologies/Database/PostgreSQL.md",
     "Technologies/Database/MySQL.md",
     "Technologies/Database/Microsoft SQL Server.md",
     "Technologies/Database/Foreign Key.md",
-    "Technologies/Database/Commands/WHERE.md",
     "Technologies/Database/Commands/UNION.md",
-    "Technologies/Database/Commands/SELECT.md",
-    "Technologies/Database/Commands/JOIN.md",
-    "Technologies/Database/Commands/HAVING.md",
-    "Technologies/Database/Commands/GROUP BY.md",
     "Technologies/Database/SQL.md",
     "Technologies/Database/Oracle.md",
     "Technologies/Microsoft/Office365/Word.md",
-    "Technologies/Database/PostgreSQL.md",
     "Technologies/Database/Commands",
     "Technologies/Programming Paradigms/Git.md",
     "Technologies/Database",
