@@ -1,0 +1,1 @@
+It's a [[Power BI]] external tool that can easily help developers to delete unused columns in their database, improving performance in the Dashboard 

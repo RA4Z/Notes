@@ -1,0 +1,1 @@
+Office365 is the package from [[Microsoft]] that contains some tools like [[Excel]], [[Power Point]], [[Sharepoint]], [[Word]], [[Outlook]], [[Teams]], [[OneDrive]].

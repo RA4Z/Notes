@@ -1,0 +1,1 @@
+Power Platform is a platform from [[Microsoft]] that contains some tools like [[Power BI]], [[Power Apps]], [[Power Automate]]
