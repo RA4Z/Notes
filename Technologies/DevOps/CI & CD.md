@@ -1,0 +1,1 @@
+Continuous Integration and Continuous Delivery, is an automated process that involves frequent code integration, automated testing, and continuous deployment of software changes to production.

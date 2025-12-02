@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "605de1f40dae0bf1",
+        "id": "3dc6fa29831b1fb0",
         "type": "tabs",
         "children": [
           {
-            "id": "7362a4ed8a10023b",
+            "id": "d69bbf1f22fc6530",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Technologies/DevOps/CI & CD.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CI & CD"
             }
           }
         ]
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "python",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Technologies/DevOps/CI & CD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for CI & CD"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Technologies/DevOps/CI & CD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from CI & CD"
             }
           },
           {
@@ -150,12 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Technologies/DevOps/CI & CD.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of CI & CD"
             }
           }
         ]
@@ -176,44 +183,43 @@
       "bases:Create new base": false
     }
   },
-  "active": "7362a4ed8a10023b",
+  "active": "d69bbf1f22fc6530",
   "lastOpenFiles": [
-    "Technologies/Programming Languages/Python/Packages.md",
-    "Technologies/Programming Languages/Python/Automation.md",
-    "Technologies/Programming Languages/Python/Packages/sap_functions.md",
-    "Technologies/Programming Languages/Python/Packages/xlwings.md",
-    "Technologies/Programming Languages/Python/Packages/Scikit-learn.md",
-    "Technologies/Programming Languages/Python/Packages/Pandas.md",
-    "Technologies/Programming Languages/Python/Python.md",
-    "Technologies/Programming Languages/Python/PyPi.md",
-    "Technologies/Programming Languages/Python/Machine Learning.md",
-    "Technologies/Programming Languages/Python/Data Analysis.md",
-    "Technologies/Programming Languages/VBA",
-    "Technologies/Microsoft/Office365/Outlook.md",
-    "Technologies/Microsoft/Office365/OneDrive.md",
-    "Technologies/Microsoft/Office365/Excel.md",
-    "Technologies/Programming Languages/Python/Web Development.md",
-    "Technologies/Microsoft/Power Platform/Power Apps/Power Apps.md",
-    "Technologies/Microsoft/Power Platform/Power Automate/Power Automate.md",
-    "Technologies/Microsoft/Power Platform/Power BI/Power BI.md",
-    "Technologies/Microsoft/Power Platform.md",
-    "Technologies/Microsoft/Microsoft.md",
-    "Technologies/Microsoft/Office365.md",
     "Untitled.canvas",
+    "Technologies/Programming Languages/Python/Python.md",
+    "Technologies/Programming Languages/Python/Packages.md",
+    "Technologies/Programming Languages/Python/Paradigms/Dunder/Methods/__new__.md",
+    "Technologies/Programming Languages/Python/Paradigms/Dunder/Methods/__init__.md",
+    "Technologies/Programming Languages/Python/Paradigms/Dunder/Methods/__del__.md",
+    "Technologies/Programming Languages/Python/Paradigms/Dunder/Methods/__call__.md",
+    "Technologies/Programming Paradigms/Git.md",
+    "Technologies/Microsoft/Power Platform/Power BI/External Tools/Tabular Editor.md",
+    "Technologies/Microsoft/Office365/Excel.md",
+    "Technologies/Programming Languages/Python/Automation.md",
+    "Technologies/Programming Languages/Python/Web Development.md",
+    "Technologies/DevOps/CI & CD.md",
+    "Untitled.md",
+    "Technologies/DevOps",
+    "Technologies/Programming Paradigms/Class.md",
+    "Technologies/Programming Paradigms/Design Patterns.md",
+    "Technologies/Programming Paradigms/Object.md",
+    "Technologies/Programming Paradigms/Object-Oriented Programming.md",
+    "Technologies/Programming Languages/Python/Paradigms/Dunder/Dunder.md",
+    "___new__.md",
+    "Technologies/Programming Languages/Python/Paradigms/Dunder/Methods",
+    "Technologies/Programming Languages/Python/Paradigms/Dunder",
+    "Technologies/Programming Languages/Python/Paradigms",
+    "Technologies/Microsoft/Microsoft.md",
+    "Technologies/Programming Languages/Python/Machine Learning.md",
+    "Technologies/Programming Languages/Python/PyPi.md",
+    "Technologies/Programming Languages/Python/Data Analysis.md",
+    "Technologies/Programming Languages/Untitled.md",
+    "Technologies/Programming Paradigms",
+    "Technologies/Programming Languages/Python/Packages/sap_functions.md",
+    "Technologies/Programming Languages/VBA",
     "Untitled.base",
     "Untitled 1.base",
-    "Technologies/Microsoft/Power Platform/Power BI/External Tools/Tabular Editor.md",
-    "Technologies/Microsoft/Power Platform/Power BI/External Tools/Measure Killer.md",
-    "Technologies/Microsoft/Office365/Word.md",
-    "Technologies/Microsoft/Office365/Teams.md",
-    "Technologies/Programming Languages/Python/Modules/Python Modules.md",
-    "Technologies/Microsoft/Office365/Sharepoint.md",
     "Technologies/Microsoft/Office365",
-    "Technologies/Microsoft",
-    "Technologies/Untitled",
-    "Technologies/Microsoft/Power Platform/Power BI/External Tools",
-    "Technologies/Programming Languages",
-    "Technologies/Microsoft/Power Platform/Power Apps",
-    "Technologies/Microsoft/Power Platform"
+    "Technologies/Microsoft"
   ]
 }
