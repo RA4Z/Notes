@@ -1,0 +1,1 @@
+**I/O (Input/Output)** refers to the process of Communication between a computer system and external devices, enabling data exchange, allowing users to provide inputs to the computer and receive outputs
