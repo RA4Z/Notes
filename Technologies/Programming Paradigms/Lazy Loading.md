@@ -1,0 +1,1 @@
+Is a [[Design Patterns|Design Pattern]] that defers the initialization of an object until it is actually needed. Optimizing resource usage and improving performance
