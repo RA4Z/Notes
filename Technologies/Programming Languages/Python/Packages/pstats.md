@@ -1,4 +1,4 @@
-The `pstats` is a Python [[Packages|module]] used for analyzing and formatting the statistical data collected by Python's profilers, primarily [[cProfile]]
+The `pstats` is a Python [[Packages|module]] used for analyzing and formatting the statistical data collected by Python's [[Profilers|profilers]], primarily [[cProfile]]
 
 - **Loading Profile Data:** `pstats` can load profiling data directly from a [[cProfile]] instance or from a file where [[cProfile]] has saved its output
 - **Sorting and Filtering:** It provides methods to sort the collected statistics based on various criteria, such as cumulative time, total time per call, number of calls and more
