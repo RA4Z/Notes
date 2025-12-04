@@ -1,4 +1,4 @@
-Is a built-in Python [[Packages|module]] designed for profiling Python code, primarily at the function level. It works by instrumenting your code to record detailed statistics about function calls and execution times.
+Is a built-in Python [[Packages|module]] designed for [[Profilers|profiling]] Python code, primarily at the function level. It works by instrumenting your code to record detailed statistics about function calls and execution times.
 
 - When `cProfile` is used to profile a section of code, it wraps the functions within that code, allowing it to intercept function calls and returns
 - The output shows which functions consume the most time, allowing you to focus optimization efforts on those areas
