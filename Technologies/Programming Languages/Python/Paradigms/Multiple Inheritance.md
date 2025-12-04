@@ -15,6 +15,6 @@ obj.feature1() # From Base1
 obj.feature2() # From Base2
 ```
 
-When multiple parents define the same method, [[Python]] uses the **C3 linearization algorithm** to determine the order in which classes are searched.
+When multiple parents define the same method, [[Python]] uses the [[C3 Linearization Algorithm]] to determine the order in which classes are searched.
 
 When working with multiple inheritance it's recommended to use `mro()` to debug and understand method lookup order
