@@ -1,0 +1,1 @@
+GitLab is an all-in-one [[DevSecOps]] platform that provides tools for the entire software development lifecycle, from code management to deployment. It includes [[Git]] repository hosting, project planning, [[CI & CD|CI/CD]] pipelines, and security scanning, allowing developers to manage projects in a single application

@@ -1,0 +1,1 @@
+GitHub is a web-based platform that uses [[Git]], a version control system, to help developers store, manage, and collaborate on code
