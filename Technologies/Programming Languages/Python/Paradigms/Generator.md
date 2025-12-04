@@ -1,4 +1,4 @@
-Generators in [[Python]] are a special type of function that allow you to produce a sequence of values over time, instead of computing them all at once and storing them in memory They are created using the ``yield`` keyword, which pauses the function's execution and retains its state, resuming from where it left off when called again. Generators are a type of [[Iterators]].
+Generators in [[🐍Python]] are a special type of function that allow you to produce a sequence of values over time, instead of computing them all at once and storing them in memory They are created using the ``yield`` keyword, which pauses the function's execution and retains its state, resuming from where it left off when called again. Generators are a type of [[Iterators]].
 
 Generators are useful for tasks like streaming data or processing large files, because they produce values on demand.
 

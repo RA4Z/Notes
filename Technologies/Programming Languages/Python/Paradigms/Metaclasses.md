@@ -1,8 +1,8 @@
-In [[Python]], metaclasses define how [[Class|classes]] are created and behave.
+In [[🐍Python]], metaclasses define how [[Class|classes]] are created and behave.
 
 While a [[Class]] is a blueprint for creating objects, a metaclass is a blueprint for creating [[Class|classes]].
 
-By default [[Python]] uses the built-in `type` as the metaclass for all classes
+By default [[🐍Python]] uses the built-in `type` as the metaclass for all classes
 
 When writing:
 ```Python
@@ -10,7 +10,7 @@ class MyClass:
 	pass
 ```
 
-[[Python]] internally does:
+[[🐍Python]] internally does:
 ```Python
 MyClass = type('MyClass', (), {})
 ```

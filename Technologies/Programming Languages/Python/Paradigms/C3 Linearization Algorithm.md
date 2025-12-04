@@ -1,4 +1,4 @@
-Is a method in [[Python]] to determine the **Method Resolution Order (MRO)** in class hierarchies, especially when dealing with [[Multiple Inheritance]].
+Is a method in [[🐍Python]] to determine the **Method Resolution Order (MRO)** in class hierarchies, especially when dealing with [[Multiple Inheritance]].
 
 This algorithm is crucial for avoiding ambiguities and conflicts when multiple parent classes define the same method or attribute.
 
@@ -13,7 +13,7 @@ The C3 algorithm computes the MRO by merging the MROs of the parent classes whil
 
 ### Examples
 
-The MRO for class `D` is computed as `[D, B, C, A, object]`. Ensuring that [[Python]] resolves methods in a consistent and conflict-free manner
+The MRO for class `D` is computed as `[D, B, C, A, object]`. Ensuring that [[🐍Python]] resolves methods in a consistent and conflict-free manner
 ```Python
 class A: pass
 class B(A): pass

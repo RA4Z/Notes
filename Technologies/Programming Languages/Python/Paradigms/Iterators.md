@@ -1,4 +1,4 @@
-In [[Python]], **iterators** are objects that let run through collections of data one element per time, following the iteration protocol
+In [[🐍Python]], **iterators** are objects that let run through collections of data one element per time, following the iteration protocol
 
 ### Iterator implements:
 - ``__iter__()``: Return the iterator

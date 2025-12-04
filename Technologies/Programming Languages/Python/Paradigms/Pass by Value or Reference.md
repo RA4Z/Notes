@@ -1,4 +1,4 @@
-In [[Python]], when you pass a variable to a function, the function receives a reference to the object, not the actual variable itself. The behavior depends on whether the object is **[[Mutable]]** or **[[Immutable]]**.
+In [[🐍Python]], when you pass a variable to a function, the function receives a reference to the object, not the actual variable itself. The behavior depends on whether the object is **[[Mutable]]** or **[[Immutable]]**.
 
 - **[[Immutable]] Objects:** When passed to a function, any modification creates a new object, the original remains unchanged outside the function
 

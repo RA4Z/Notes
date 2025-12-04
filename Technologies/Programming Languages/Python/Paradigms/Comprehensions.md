@@ -1,4 +1,4 @@
-[[Python]] comprehensions are a more Pythonic alternative to traditional loops for many common data manipulation tasks.
+[[🐍Python]] comprehensions are a more Pythonic alternative to traditional loops for many common data manipulation tasks.
 
 ### Types of Comprehensions
 - **List Comprehensions:** Used to create new lists

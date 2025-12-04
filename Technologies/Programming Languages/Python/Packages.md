@@ -1,4 +1,4 @@
-A package in [[Python]] is a way to organize and structure code by grouping related modules into a directory. It is essentially a folder containing an ```__init__.py``` file and one or more Python files (modules). This structure allows developers to manage, reuse and distribute code efficiently, especially in larger projects. 
+A package in [[🐍Python]] is a way to organize and structure code by grouping related modules into a directory. It is essentially a folder containing an ```__init__.py``` file and one or more Python files (modules). This structure allows developers to manage, reuse and distribute code efficiently, especially in larger projects. 
 
 ### Key Features of Python Packages
 - **Code Organization**: Packages group related functionality, making code more modular and easier to maintain.

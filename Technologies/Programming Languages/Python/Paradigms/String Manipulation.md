@@ -1,4 +1,4 @@
-[[Python]] provides a rich set of tools for **string manipulation**, allowing developers to perform operations like **slicing**, **formatting**, **searching**, and **transforming** strings efficiently.
+[[🐍Python]] provides a rich set of tools for **string manipulation**, allowing developers to perform operations like **slicing**, **formatting**, **searching**, and **transforming** strings efficiently.
 
 ### Basic String Operations
 ```Python
@@ -58,5 +58,5 @@ print(f"My name is {name} and I am {age} years old.")
 ```
 
 ### Considerations
-- Strings are **immutable** in [[Python]], all operations return a new string
+- Strings are **immutable** in [[🐍Python]], all operations return a new string
 - Use ``re`` module for complex pattern matching and replacements

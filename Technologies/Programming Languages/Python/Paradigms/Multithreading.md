@@ -1,4 +1,4 @@
-In [[Python]], multithreading creates multiple threads within a single process, sharing the same memory space.
+In [[🐍Python]], multithreading creates multiple threads within a single process, sharing the same memory space.
 
 It cannot execute bytecode in true parallelism, they run concurrently via context switching, making threading ideal for [[I & O|I/O-bound tasks]] where the CPU spends time waiting
 

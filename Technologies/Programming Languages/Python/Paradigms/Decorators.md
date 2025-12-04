@@ -1,4 +1,4 @@
-In [[Python]], decorators are a tool that allows developers to modify the behavior of a function or class without changing it's code. This is achieved by taking a function as an argument into another function and then calling it inside a wrapper function
+In [[🐍Python]], decorators are a tool that allows developers to modify the behavior of a function or class without changing it's code. This is achieved by taking a function as an argument into another function and then calling it inside a wrapper function
 
 ### Creating a Decorator
 A decorator is a function that takes another function as an argument, adds some functionality, and returns a new function

@@ -1,4 +1,4 @@
-In [[Python]], ``*args`` and ``***kwargs`` are special syntax used in function definitions to allow for a variable number of arguments. Providing flexibility when designing functions that need to handle varying number of inputs.
+In [[🐍Python]], ``*args`` and ``***kwargs`` are special syntax used in function definitions to allow for a variable number of arguments. Providing flexibility when designing functions that need to handle varying number of inputs.
 
 ### Args (Non-Keyword Arguments)
 The `*args` syntax is used to pass a variable number of **positional arguments** to a functions. These arguments are packed into a tuple

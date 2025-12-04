@@ -1,4 +1,4 @@
-In [[Python]], the **with statement** is used to ensure **proper acquisition and release of resources** 
+In [[🐍Python]], the **with statement** is used to ensure **proper acquisition and release of resources** 
 
 It automatically handles setup and cleanup, making code cleaner and safer than using manual `try...finally` 
 

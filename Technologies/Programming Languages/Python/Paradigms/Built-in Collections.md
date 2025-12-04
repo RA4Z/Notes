@@ -1,4 +1,4 @@
-[[Python]] offers several built-in collection data types for storing and organizing data
+[[🐍Python]] offers several built-in collection data types for storing and organizing data
 
 - **Lists:** Ordered, mutable sequences of heterogeneous elements
 ```Python

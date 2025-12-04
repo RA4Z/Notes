@@ -1,4 +1,4 @@
-In [[Python]], multiprocessing spawns separate processes, each with its own [[Python]] interpreter and memory space. 
+In [[🐍Python]], multiprocessing spawns separate processes, each with its own [[🐍Python]] interpreter and memory space. 
 
 It allows **true parallelism** across multiple CPU cores, making it suitable for **CPU-bound tasks**
 

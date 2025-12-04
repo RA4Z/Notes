@@ -1,4 +1,4 @@
-The **ternary operator** in [[Python]] allows for concise conditional expressions. It can be used to detect the signs of two numbers in a single line.
+The **ternary operator** in [[🐍Python]] allows for concise conditional expressions. It can be used to detect the signs of two numbers in a single line.
 
 - Ternary operator syntax:
 ```Python
