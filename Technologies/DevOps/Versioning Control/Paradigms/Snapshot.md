@@ -1,0 +1,1 @@
+A git Snapshot is a representation of your project at a specific moment
