@@ -1,0 +1,1 @@
+Hashing is a technique used in data structures to enable efficient storage and retrieval of data. It maps data (keys) to specific indices in a hash table using a **hash function**. Allowing operations like insertion, deletion and lookup.

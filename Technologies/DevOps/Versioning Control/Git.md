@@ -8,7 +8,7 @@ Git organizes data into three primary types of objects **[[Blob|blobs]]**, **[[T
 
 - **[[Blob|Blobs]]** store the content of the files in your repository. Each version of a file is represented by a blob object, which is identified by a unique hash
 - **[[Tree|Trees]]** represent the directory structure of your project. They act as pointers that link [[Tree|tree]] objects with [[Blob|blobs]], establishing relationships between files and folders
-- **[[Commit|Commits]]** are the [[metadata]] associated with each [[Snapshot]]. Each commit points to a [[Tree|tree]] object, representing the directory structure at that [[commit]]
+- **[[Commit|Commits]]** are the [[Metadata]] associated with each [[Snapshot]]. Each commit points to a [[Tree|tree]] object, representing the directory structure at that [[commit]]
 
 When a [[commit]] is created, Git constructs a [[tree]] object that represents the state of all files
 

@@ -30,7 +30,7 @@ git log --oneline
 ```
 
 ### Under the Hood
-Git stores snapshots as **objects** in `.git/objects`. Each object is identified by a [[SHA-1 hash]]:
+Git stores snapshots as **objects** in `.git/objects`. Each object is identified by a [[SHA-1 Hash]]:
 ```Powershell
 echo "Hello" | git hash-object -w --stdin
 git cat-file -p <hash>
