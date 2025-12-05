@@ -1,0 +1,1 @@
+Metadata is data that describes other data. Providing information such as the author, creation date and file size, which helps in organizing, searching and managing data effectively

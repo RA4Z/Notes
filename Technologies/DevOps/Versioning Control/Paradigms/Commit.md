@@ -1,7 +1,7 @@
 In [[Git]], Commit is a [[Snapshot]] of your project at a specific point in time, recording changes along with a descriptive message. Helping maintain a clear project history and allows you to revert or review changes easily
 
 ### Stage and Commit Changes
-- **Stage files** you want to include in the commit: `git add file1xtxt file2.txt` To stage all changes: `git add .`
+- **Stage files** you want to include in the commit: `git add file1.txt file2.txt` To stage all changes: `git add .`
 - **Create the commit** with a message:
 ```Powershell
   git commit -m "Describe your changes here"
