@@ -14,7 +14,7 @@ NoSQL is not a single technology but an umbrella term covering several distinct 
 - **Examples:** Redis, Memcached, DynamoDB
 
 ##### 2. Document Databases
-- **Concept:** Stores data in flexible, semi-structured documents (often JSON, BSON or XML format). A document can contain arrays, nested data and varying fields
+- **Concept:** Stores data in flexible, semi-structured documents (often [[JSON]], [[BSON]] or [[XML]] format). A document can contain arrays, nested data and varying fields
 - **Analogy:** A filling cabinet where each folder holds all the information related to a single entity (e.g., a customer)
 - **Use Cases:** Content management systems, catalogs, user management and e-commerce product databases
 - **Examples:** MongoDB, Couchbase
