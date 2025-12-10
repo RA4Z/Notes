@@ -20,3 +20,6 @@ Python have lots of packages, where can be seen in [[PyPi]] they can be installe
 There are some Python [[Packages]] listed in this documentation. 
 
 Everything in Python is an [[Object]]
+
+Python [[Class|classes]] uses the [[Camel Case]] convention.
+Python [[Object|objects]] and [[Def|functions]] uses the [[Snake Case]] convention.

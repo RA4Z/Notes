@@ -1,0 +1,1 @@
+Snake case is a naming convention in programming where spaces are replaced with underscores and the words are typically all lower case. For example, `snake_case`, `number_of_items`. 

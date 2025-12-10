@@ -1,0 +1,1 @@
+Camel case is a naming convention in programming where the first word starts with a lowercase letter, and each subsequent word begins with an uppercase letter. For example, `numberOfItems` or `userName`
