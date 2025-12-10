@@ -57,6 +57,12 @@ print(f"My name is {name} and I am {age} years old.")
 # Output: "My name is Alice and I am 25 years old."
 ```
 
+- **String Inverting**:
+```Python
+text = "Python"
+inverted_text = text[::-1]
+print(inverted_text) # Output: nohtyP
+```
 ### Considerations
 - Strings are **immutable** in [[🐍Python]], all operations return a new string
 - Use ``re`` module for complex pattern matching and replacements
