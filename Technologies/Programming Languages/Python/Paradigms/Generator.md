@@ -22,5 +22,29 @@ for square in squares:
    print(square)
 ```
 
+### Fibonacci
+The best way to iter through the Fibonacci sequence is using Generator
+```Python
+def fibo(quantity: int):  
+    if quantity > 1:  
+        yield 1  
+  
+    last = 0  
+    actual = 1  
+    for number in range(quantity - 1):  
+        yield actual + last  
+        actual = actual + last  
+        last = actual - last  
+  
+  
+def main():  
+    for i in fibo(10):  
+        print(i)  
+  
+  
+if __name__ == '__main__':  
+    main()
+```
+
 ### Advantages
 They simplify code, reduce memory usage and improve performance. They are useful for tasks like [[Lazy Loading|lazy]] evaluation, pipeline processing and handling large or infinite datasets
