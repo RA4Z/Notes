@@ -32,3 +32,17 @@ It is also possible to use the `list()` constructor to create a new list
 thislist = list(("apple", "banana", "cherry"))
 print(thislist)
 ```
+
+#### List extend()
+To merge lists in [[🐍Python]] is used the `extend()` method
+```Python
+main_list = []
+
+list_1 = [1, 2, 3]
+list_2 = [4, 5, 6]
+
+main_list.extend(list_1)
+main_list.extend(list_2)
+
+print(main_list)  # Output: [1, 2, 3, 4, 5, 6]
+```
