@@ -1,4 +1,4 @@
-In [[🐍Python]] is possible to list all files in a directory, iterate through them and interact with them using the `os` [[Packages|Package]], together with the [[With Statement]] is possible to read the content of the files
+In [[🐍Python]] is possible to list all files in a directory, iterate through them and interact with them using the `os` [[Packages|Package]], together with the [[With Statement]] and [[Open]] is possible to read the content of the files
 
 ```Python
 folder = os.path.join(os.getcwd(), 'database')
