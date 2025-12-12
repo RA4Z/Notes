@@ -29,3 +29,12 @@ except FileNotFoundError as e:
     print(f"Error: {e}")
 
 ```
+
+#### Inserting items in files using comprehension
+```Python
+result = sap.CN47N(lote_de_ordens)  
+with open(f'{os.getcwd()}/database/CN47N/{uuid.uuid4()}.txt') as f:  
+    header_line = ';'.join(result['header'])  
+    content_block = '\n'.join([';'.join(row) for row in result['content']])  
+    f.write(f"{header_line}\n{content_block}\n")
+```
