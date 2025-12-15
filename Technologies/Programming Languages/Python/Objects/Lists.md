@@ -46,3 +46,13 @@ main_list.extend(list_2)
 
 print(main_list)  # Output: [1, 2, 3, 4, 5, 6]
 ```
+
+#### List Slicing
+To slice lists in [[🐍Python]] it's possible to use the following command:
+```Python
+main_list = [1, 2, 3, 4, 5]  
+test_list1 = test_list[:2] 
+test_list2 = test_list[2:]  
+print(test_list1) # Output: [1, 2]
+print(test_list2) # Output: [3, 4, 5]
+```

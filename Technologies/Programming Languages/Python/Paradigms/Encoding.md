@@ -1,4 +1,4 @@
-In [[🐍Python]], the built-in _[[Open|open()]]_ function lets you specify the **text encoding** used when reading or writing files. If you don't specify _encoding_, [[🐍Python]] chooses a **platform-dependent default** based on your system's locale settings.
+In [[🐍Python]], the built-in _[[open()|open()]]_ function lets you specify the **text encoding** used when reading or writing files. If you don't specify _encoding_, [[🐍Python]] chooses a **platform-dependent default** based on your system's locale settings.
 
 #### Syntax
 ```Python
