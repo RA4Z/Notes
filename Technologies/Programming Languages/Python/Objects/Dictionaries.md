@@ -45,3 +45,14 @@ It is also possible to use the `dict()` constructor to create a new dictionary
 thisdict = dict(brand="Ford", model="Mustang", year=1964)
 print(thisdict)
 ```
+
+#### Looping Techniques
+When looping through dictionaries, the key and corresponding value can be retrieved at the same time using the `items()` method.
+```Python
+knights = {'gallahad': 'the pure', 'robin': 'the brave'}
+for k, v in knights.items():
+    print(k, v)
+
+# Output: gallahad the pure
+# Output: robin the brave
+```

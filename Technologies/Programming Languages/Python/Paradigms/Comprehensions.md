@@ -43,6 +43,14 @@ unique_vowels = {char for char in letters if char in 'aeiou'}
 print(unique_vowels) # Output: {'a', 'e'} (order may vary)
 ```
 
+- **Nested List Comprehensions**: Used to create matrices
+```Python
+transposed = []
+for i in range(4):
+    transposed.append([row[i] for row in matrix])
+
+print(transposed) # Output: [[1, 5, 9], [2, 6, 10], [3, 7, 11], [4, 8, 12]]
+```
 ### Advantages of Comprehensions
 - **Conciseness:** They allow you to write compact and readable code, often replacing multiple lines of loop-based code with a single line
 - **Efficiency:** Comprehensions are often more efficient than equivalent **for** loops in Python, as they are optimized at a lower level
