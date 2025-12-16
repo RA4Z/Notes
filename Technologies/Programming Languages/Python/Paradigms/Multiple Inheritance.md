@@ -1,4 +1,4 @@
-[[🐍Python]] supports multiple inheritance, that means a [[Class]] can inherit from more than one parent [[Class]] 
+[[🐍Python]] supports multiple inheritance, that means a [[Technologies/Programming Paradigms/Class]] can inherit from more than one parent [[Technologies/Programming Paradigms/Class]] 
 
 ```Python
 class Base1:

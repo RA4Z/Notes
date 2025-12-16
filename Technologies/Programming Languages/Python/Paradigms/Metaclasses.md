@@ -1,6 +1,6 @@
-In [[🐍Python]], metaclasses define how [[Class|classes]] are created and behave.
+In [[🐍Python]], metaclasses define how [[Technologies/Programming Paradigms/Class|classes]] are created and behave.
 
-While a [[Class]] is a blueprint for creating objects, a metaclass is a blueprint for creating [[Class|classes]].
+While a [[Technologies/Programming Paradigms/Class]] is a blueprint for creating objects, a metaclass is a blueprint for creating [[Technologies/Programming Paradigms/Class|classes]].
 
 By default [[🐍Python]] uses the built-in `type` as the metaclass for all classes
 

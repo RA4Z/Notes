@@ -17,4 +17,4 @@ The fundamental Python data (`int`, `list`, `dict`, `str`, ` tuple` and `object`
 Always when you use an operator or built-in function with one of these native methods, the respective Dunder method is executed with C code.
 
 ### 🚨🚨Don't call Dunder directly🚨🚨
-You should define Dunder methods in [[Class|classes]] but shouldn't call them directly, it's usually best to let it be used by [[🐍Python]] internal functions. You don't ever call `__len__`, you call `len()`, which then calls `__len__`.
+You should define Dunder methods in [[Technologies/Programming Paradigms/Class|classes]] but shouldn't call them directly, it's usually best to let it be used by [[🐍Python]] internal functions. You don't ever call `__len__`, you call `len()`, which then calls `__len__`.
