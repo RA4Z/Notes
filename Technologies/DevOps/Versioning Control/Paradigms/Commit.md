@@ -25,3 +25,9 @@ git commit --amend -m "Updated commit message"
 - Use **imperative mood** in messages (e.g., "Add feature" not "Added feature")
 - Commit often to maintain a clear history
 - Use ``git log --oneline`` to review recent commits
+
+### Multi-line Tip
+Run `git commit` with -m "" -m "" to create a title and a description of your commit
+```Powershell
+git commit -m "Commit Title" -m "Commit Description"
+```
