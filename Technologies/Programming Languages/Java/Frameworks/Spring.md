@@ -1,0 +1,1 @@
+The Spring is a modular framework that has become the undisputed standard for building **enterprise-level [[Java]] applications**. It simplifies complex programming tasks and significantly speeds up development by providing structure, established patterns and a huge ecosystem of supporting projects
