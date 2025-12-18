@@ -1,4 +1,4 @@
-In [[React]], Class Components are ES6 classes that extend `React.Component`. They manage state using `this.state` and update it with `this.setState()`. They use lifecycle methods like `componentDidMount` and `componentWillUnmount` instead of hooks. They are verbose and require method binding for event handlers. Class Components have more [[Boilerplate]] code than Functional Components.
+In [[React]], Class Components are ES6 classes that extend `React.Component`. They manage state using `this.state` and update it with `this.setState()`. They use life-cycle methods like `componentDidMount` and `componentWillUnmount` instead of hooks. They are verbose and require method binding for event handlers. Class Components have more [[Boilerplate]] code than Functional Components.
 
 ```Javascript
 import React, { Component } from "react";

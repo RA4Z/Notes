@@ -1,0 +1,1 @@
+Is an high-leve programming language, used in web development, alongside with HTML and CSS, is primarily used to create **dynamic, interactive and user-friendly web experiences**.
