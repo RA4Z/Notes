@@ -1,0 +1,1 @@
+One of the [[React]] key features is the use of the [[Virtual DOM]], which allows for efficient updates and rendering of the user interface. However, there are times when you might need to directly manipulate the [[DOM]] elements managed by [[React]]. This can be achieved using **[[UseRef|refs]]**.
