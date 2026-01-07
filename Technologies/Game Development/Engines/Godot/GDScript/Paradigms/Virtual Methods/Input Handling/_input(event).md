@@ -1,0 +1,1 @@
+[[Virtual Method]] that catches **any** input event (key, mouse, etc.). This happens before anything else

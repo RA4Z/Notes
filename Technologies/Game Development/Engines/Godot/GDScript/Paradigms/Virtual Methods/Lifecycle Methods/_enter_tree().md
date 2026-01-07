@@ -1,0 +1,1 @@
+Is a [[Virtual Method]] called when the node is added to the Scene Tree

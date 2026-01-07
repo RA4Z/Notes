@@ -1,0 +1,1 @@
+Is a [[Virtual Method]] that runs at the moment the object is created in memory. Use this to initialize variables

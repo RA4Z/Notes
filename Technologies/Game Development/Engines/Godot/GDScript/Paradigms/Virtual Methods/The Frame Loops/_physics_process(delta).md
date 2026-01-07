@@ -1,0 +1,1 @@
+A [[Virtual Method]] that is called at a fixed interval (usually 60 times per second). Use this for anything involving the physics engine ([[move_and_slide()]], applying forces). This ensures physics behave the same regardless of the computer's frame rate.

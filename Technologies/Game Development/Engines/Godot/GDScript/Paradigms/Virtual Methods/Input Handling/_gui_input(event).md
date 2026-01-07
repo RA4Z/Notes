@@ -1,0 +1,1 @@
+[[Virtual Method]] only used in UI nodes ([[Control|Control Nodes]]). It triggers when you interact specifically with that UI element.

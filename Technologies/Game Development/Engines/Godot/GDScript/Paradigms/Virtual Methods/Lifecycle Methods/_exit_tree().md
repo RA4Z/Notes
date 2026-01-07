@@ -1,0 +1,1 @@
+It is a [[Virtual Method]] that is called when the node leaves the scene tree (when `queue_free()` is called or the scene changes). Good for cleanup.

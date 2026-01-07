@@ -1,0 +1,1 @@
+The most used [[Virtual Method]]. Called once when the node **and all its children** have entered the scene tree and are ready.
