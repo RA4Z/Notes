@@ -1,0 +1,1 @@
+In [[Godot]],  all 2D nodes, including physics objects and sprites, inherit from **Node2D**. Use Node2D as a parent node to move, scale and rotate children in a 2D project.

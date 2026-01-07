@@ -1,0 +1,1 @@
+In [[GDScript]], returns a [[KinematicCollision3D]], which contains information about the latest collision that occurred during the last call to [[move_and_slide()]]. 

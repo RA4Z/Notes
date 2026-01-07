@@ -1,0 +1,1 @@
+In [[GDScript]], **get_slide_collision_count** returns the number of times the body collided and changed direction during the last call to [[move_and_slide()]]

@@ -1,0 +1,1 @@
+In [[Godot]], **CanvasItem** is an abstract base class for everything in 2D space. Canvas items are laid out in a tree; children inherit and extend their parent's transform. **CanvasItem** is extended by [[Control]] for GUI-related nodes, and by [[Node2D]] for 2D game objects.

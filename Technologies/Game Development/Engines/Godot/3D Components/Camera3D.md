@@ -1,0 +1,1 @@
+In [[Godot]], **Camera3D** is a special node that displays what is visible from its current location. Cameras register themselvs in the nearest [[Viewport]] node. Only one camera can be active per viewport. If no viewport is available ascending the tree, the camera will register in the global viewport.

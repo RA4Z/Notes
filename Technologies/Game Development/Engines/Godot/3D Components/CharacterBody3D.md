@@ -1,0 +1,1 @@
+In [[Godot]], **CharacterBody3D** is a specialized class for physics bodies that are meant to be user-controlled. They are not affected by physics at all, but they affect other physics bodies in their path. They are mainly used to provide high-level API to move objects with wall and slope detection ([[move_and_slide()]] method)

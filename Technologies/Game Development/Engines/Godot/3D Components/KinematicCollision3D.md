@@ -1,0 +1,1 @@
+In [[Godot]], **KinematicCollision3D** holds collision data from the movement of a [[PhysicsBody3D]]. When a [[PhysicsBody3D]] is moved, it stops if it detects a collision with another body. If a collision is detected, a **KinematicCollision3D** object is returned.

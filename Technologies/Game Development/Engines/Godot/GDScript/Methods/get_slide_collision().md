@@ -1,0 +1,1 @@
+In [[GDScript]], **get_slide_collision** returns a [[KinematicCollision3D]], which contains information about a collision that occurred during the last call to [[move_and_slide()]]. Since the body can collide several times in a single call to [[move_and_slide()]], you must specify the index of the collision in the range 0 to ([[get_slide_collision_count()]] - 1)

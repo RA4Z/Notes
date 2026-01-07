@@ -1,0 +1,1 @@
+In [[Godot]],  **MeshLibrary** is a library of meshes. Contains a list of [[Mesh]] resources, each with a name and ID. Each item can also include collision and navigation shapes. This resource is used in [[GridMap]].

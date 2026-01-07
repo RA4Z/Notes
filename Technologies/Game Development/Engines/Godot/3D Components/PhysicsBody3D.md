@@ -1,0 +1,1 @@
+In [[Godot]], **PhysicsBody3D** is an abstract base class for 3D game objects affected by physics. All 3D physics bodies inherit from it.

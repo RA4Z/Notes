@@ -1,0 +1,1 @@
+In [[Godot]], a **Viewport** is an abstract base class for viewports. It creates a different view into the screen, or a sub-view inside another viewport. Child 2D nodes will display on it, and child [[Camera3D]] nodes will render on it too
