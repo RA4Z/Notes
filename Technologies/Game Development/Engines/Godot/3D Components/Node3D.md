@@ -1,0 +1,1 @@
+In [[Godot]], **Node3D** is the base representation of a node in 3D space

@@ -1,0 +1,3 @@
+**Godot** is a free, open-source game engine designed for creating **2D and 3D games**. Developed in 2001 and made open-source in 2014.
+
+Godot uses a **node and scene architecture**, where nodes represent specific game functions and scenes can be anything from characters to levels. It supports multiple programming languages, including [[GDScript]], ``C#``, `C++` and event community-supported bindings for `Rust`, [[🐍Python]] and [[JavaScript]] 
