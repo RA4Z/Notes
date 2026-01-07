@@ -1,0 +1,1 @@
+In [[Godot]], **RigidBody3D** implements full 3D physics. It cannot be controlled directly, instead, you must apply forces to it (gravity, impulses, etc.), and the physics simulation will calculate the resulting movement, rotation, react to collisions and affect other physics bodies in its path.
