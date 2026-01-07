@@ -1,0 +1,1 @@
+It's a [[Signals|Signal]] that notifies when the [[NavigationMesh]] has changed.

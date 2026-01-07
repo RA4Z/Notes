@@ -1,0 +1,1 @@
+It's a [[Signals|Signal]] that Notifies when the [[NavigationMesh]] bake operation is completed

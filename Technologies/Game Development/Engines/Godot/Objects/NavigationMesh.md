@@ -1,0 +1,1 @@
+In [[Godot]], a navigation mesh is a collection of polygons that define which areas of an environment are traversable to aid agents in a pathfinding through complicated spaces.

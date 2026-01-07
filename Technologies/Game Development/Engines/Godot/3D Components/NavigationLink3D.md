@@ -1,0 +1,1 @@
+In [[Godot]], **NavigationLink3D** is a link between two positions on [[NavigationRegion3D]] that agents can be routed through. These positions can be on the same [[NavigationRegion3D]] or on two different ones.

@@ -1,0 +1,1 @@
+In [[GDScript]], the `bake_navigation_mesh()` method bakes the [[NavigationMesh]]. if `on_thread` is set to `true`, the baking is done on a separate thread. Baking on separate thread is useful because navigation baking is not a cheap operation. When it is completed, it automatically sets the new [[NavigationMesh]].
