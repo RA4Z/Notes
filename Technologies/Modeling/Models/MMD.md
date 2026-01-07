@@ -1,0 +1,1 @@
+MMD (MikuMikuDance) models are **3D virtual characters** that have gained immense popularity in the world of animation and digital content creation. These models are used in the MIkuMikuDance software, which is a free animation program developed in Japan.
