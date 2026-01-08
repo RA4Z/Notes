@@ -1,0 +1,1 @@
+**OpenGL ES Shading Language 3.0** (also called as GLSL) is a C-like language that allows us to writes shaders for programmable processors in the OpenGL ES processing pipeline. Shaders are the small programs that run on the GPU in parallel.

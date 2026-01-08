@@ -1,0 +1,3 @@
+In the [[Shading Language]], individual scalar members of vector types are accessed via the "x", "y", "z" and "w" members. Alternatively, using "r", "g", "b" and "a" also works and is equivalent. Use whatever fits best for your needs.
+
+For matrices, use the `m[column][row]` indexing syntax to access each scalar, or `m[column]` to access a vector by column index. For example, for accessing the y-component of the translation from a mat4 transform matrix (4th column, 2nd line) you use `m[3][1]` or `m[3].y`.
