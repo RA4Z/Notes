@@ -1,4 +1,4 @@
-Structs are compound types which can be used for better abstraction of shader code. You can declare them at the global scope like:
+[[Shading Language]] structs are compound types which can be used for better abstraction of shader code. You can declare them at the global scope like:
 ```C
 struct PointLight {
     vec3 position;
