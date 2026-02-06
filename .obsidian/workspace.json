@@ -4,20 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "33cc9302b8e5bbd0",
+        "id": "a1f6451c79fb2f45",
         "type": "tabs",
         "children": [
           {
-            "id": "5af17f68e5fbd1d3",
+            "id": "42fa7a973cc747ca",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Technologies/Programming Languages/Python/Packages/datetime.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "datetime"
+            }
+          },
+          {
+            "id": "0f149687cd58c97b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Technologies/Database/SQLite Migration.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SQLite Migration"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -49,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Blob",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 332.5
   },
   "right": {
     "id": "dfbbdf074024a20e",
@@ -179,44 +198,54 @@
       "bases:Create new base": false
     }
   },
-  "active": "5af17f68e5fbd1d3",
+  "active": "0f149687cd58c97b",
   "lastOpenFiles": [
-    "Technologies/DevOps/Versioning Control/Git.md",
-    "Technologies/DevOps/Versioning Control/Paradigms/Commit.md",
-    "Commits.md",
-    "Technologies/DevOps/Versioning Control/GitHub.md",
-    "Technologies/DevOps/Versioning Control/Paradigms/Snapshot.md",
-    "Technologies/DevOps/Versioning Control/Paradigms/Tree.md",
-    "Technologies/DevOps/Versioning Control/Paradigms/Blob.md",
-    "Technologies/Programming Languages/Python/🐍Python.md",
-    "Technologies/Programming Languages/Python/Paradigms/Args and Kwargs.md",
-    "Technologies/Programming Languages/Python/Packages/ctypes.md",
-    "Technologies/Programming Languages/Python/Paradigms/Metaclasses.md",
-    "Technologies/Programming Paradigms/Techniques/Recursion.md",
-    "Technologies/Programming Languages/Python/Paradigms/Dunder/Dunder.md",
-    "Technologies/DevOps/Performance/APMs.md",
-    "Technologies/DevOps/CI & CD.md",
-    "Technologies/Programming Paradigms/Techniques",
-    "Technologies/DevOps/Performance/Performance Measurement.md",
-    "Technologies/DevOps/Performance/Profilers.md",
-    "Technologies/Programming Languages/Python/Packages/cProfile.md",
-    "Technologies/Programming Languages/Python/Packages/SnakeViz.md",
-    "Technologies/Programming Languages/Python/Packages/pstats.md",
-    "Technologies/DevOps/Performance",
-    "Technologies/Programming Languages/Python/Paradigms/C3 Linearization Algorithm.md",
-    "Technologies/Programming Languages/Python/Paradigms/Multiple Inheritance.md",
+    "Technologies/Database/Commands/HAVING.md",
+    "Technologies/Database/SQLite Migration.md",
+    "Technologies/Programming Languages/Python/Packages/PyInstaller.md",
+    "Technologies/Programming Languages/Python/Paradigms/Tricks/Chunk Lists.md",
+    "Technologies/Game Development/Engines/Godot/GDScript/Features/Coroutines with Yield.md",
     "Technologies/Programming Languages/Python/Paradigms/Generator.md",
-    "Technologies/Programming Languages/Python/Paradigms/Decorators.md",
-    "Technologies/Programming Languages/Python/Paradigms/String Manipulation.md",
-    "Technologies/Programming Languages/Python/Paradigms/Ternary.md",
-    "PCP/Indicadores",
-    "PCP/Transações",
-    "PCP",
-    "SAP",
-    "Technologies/Markup Languages/YAML",
-    "Technologies/Markup Languages",
-    "Technologies/DevOps/Versioning Control/Paradigms",
-    "Technologies/DevOps/Versioning Control/Commands",
+    "Technologies/Game Development/Engines/Godot/Godot.md",
+    "Technologies/Game Development/Engines/Godot/Shaders/Paradigms/Local Arrays.md",
+    "Technologies/Game Development/Engines/Godot/Animations/Root Nodes/AnimationNodeStateMachine.md",
+    "Technologies/Game Development/Engines/Godot/Animations/AnimationTree.md",
+    "Technologies/Game Development/Engines/Godot/Shaders/Paradigms/Flow Control.md",
+    "Technologies/Game Development/Engines/Godot/Shaders/Paradigms/Constructing.md",
+    "Technologies/Game Development/Engines/Godot/Shaders/Paradigms/Fragment Shaders.md",
+    "Technologies/Game Development/Engines/Godot/Shaders/Paradigms/Vertex Lighting.md",
+    "Technologies/Game Development/Engines/Godot/Shaders/Paradigms/vec4.md",
+    "Technologies/Game Development/Engines/Godot/Shaders/Paradigms/vec3.md",
+    "Technologies/Game Development/Engines/Godot/Shaders/Paradigms/Swizzling.md",
+    "Technologies/Game Development/Engines/Godot/Shaders/Shading Language.md",
+    "Technologies/Game Development/Engines/Godot/Shaders/Paradigms/Shaders Type.md",
+    "Technologies/Game Development/Engines/Godot/GDScript/Properties/path_desired_distance.md",
+    "Technologies/Game Development/Engines/Godot/GDScript/Properties/velocity.md",
+    "Technologies/Game Development/Engines/Godot/GDScript/Properties/path_metadata_flags.md",
+    "Technologies/Game Development/Engines/Godot/GDScript/Properties/assigned_animation.md",
+    "Technologies/Game Development/Engines/Godot/GDScript/Properties/autoplay.md",
+    "Technologies/Game Development/Engines/Godot/GDScript/Properties/current_animation.md",
+    "Technologies/Game Development/Engines/Godot/GDScript/Properties/current_animation_position.md",
+    "Technologies/Game Development/Engines/Godot/Paradigms",
+    "Images/types_of_brackets.png",
+    "Technologies/Game Development/Engines/Godot/Shaders/Paradigms",
+    "Technologies/Programming Languages/GLSL",
+    "Images/AnimationTree/animtree15.gif",
+    "Technologies/Game Development/Engines/Godot/Shaders",
+    "Images/AnimationTree/animtree_goodanimcondition.webp",
+    "Images/AnimationTree/animtree_blendspacepoints.gif",
+    "Images/AnimationTree/animtree_blendspace1d.webp",
+    "Images/AnimationTree/animtree_badanimcondition.gif",
+    "Images/AnimationTree/animtree_propertypath.webp",
+    "Images/AnimationTree/animtree_parameters.webp",
+    "Images/AnimationTree/animtree_rootmotiontrack.webp",
+    "Images/AnimationTree/animtree_blendmode.webp",
+    "Technologies/Game Development/Engines/Godot/Animations/Root Nodes",
+    "Images/AnimationTree",
+    "Technologies/Game Development/Engines/Godot/Animations/Nodes",
+    "Technologies/Game Development/Engines/Godot/Animations",
+    "Technologies/Game Development/Engines/Godot/GDScript/Paradigms/Virtual Methods/Input Handling",
+    "Technologies/Game Development/Engines/Godot/GDScript/Paradigms/Virtual Methods/The Frame Loops",
     "Untitled.canvas"
   ]
 }
